@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #111827;
+    font-family: Arial;
+    color: white;
+}
+
+.container {
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: #1f2937;
+}
+
+th, td {
+    padding: 12px;
+    border-bottom: 1px solid #374151;
+}
+
+tr:hover {
+    background: #374151;
+}
+
+a {
+    color: #60a5fa;
+    text-decoration: none;
+}
+
+button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1d4ed8;
+}
+
+input {
+    padding: 8px;
+}
+
+.path-bar {
+    margin-top: 20px;
+    padding: 10px;
+    background: #1e3a8a;
+}

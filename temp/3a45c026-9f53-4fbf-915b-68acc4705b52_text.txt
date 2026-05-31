@@ -1,0 +1,10 @@
+
+Download Windows 10
+
+Before updating, please refer to the Windows release information status for known issues to confirm your device is not impacted.
+
+Stay Secure with Essential Windows Updates: After October 14, 2025, Windows 10 will no longer receive free software updates, technical support, or security fixes. This means your PC will be more vulnerable to security threats and malware. Consider Upgrading to Windows 11: Move to the security, speed, and innovation that Windows 11 PCs provide, available at every price point. Upgrading to Windows 11 ensures you continue to receive the latest security updates, features, and technical support, keeping your PC safe and efficient. For more information on preparing for Windows 10 end of support, see our Windows blog post.
+Windows 10 2022 Update | Version 22H2
+
+The Update Assistant can help you update to the latest version of Windows 10. To get started, click Update now.
+

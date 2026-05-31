@@ -1,0 +1,5 @@
+Big Data Industry and Technological Trends.
+HDFS - Hadoop Distributed File System.
+MapReduce - Distributed Off-line Batch Processing and Yarn - Resource Negotiator.
+Spark2x - In-memory Distributed Computing Engine.
+
